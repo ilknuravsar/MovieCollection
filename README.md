@@ -25,7 +25,7 @@ Run server using command npm run serve. Project will be available on http://127.
 
 ## SCREENSHOTS
 
-![](screenshot/login.png)
-![](screenshot/kayit.png)
-![](screenshot/anasayfa.png)
+![](screenshot/Ekran görüntüsü 2022-01-29 162556.png)
+![](screenshot/Ekran görüntüsü 2022-01-29 162639.png)
+![](screenshot/Ekran görüntüsü 2022-01-29 162705.png)
 
